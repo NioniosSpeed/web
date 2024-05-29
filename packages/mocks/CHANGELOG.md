@@ -1,5 +1,11 @@
 # @web/mocks
 
+## 1.2.2
+
+### Patch Changes
+
+- f977f5cc: Update mocks addon styles to support dark mode
+
 ## 1.2.1
 
 ### Patch Changes
